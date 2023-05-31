@@ -17,12 +17,12 @@ classifiers = [
 
 setup(
     name = 'pico-register',
-    version = '0.1.0',
+    version = '0.2.0',
     author = 'Chris Braissant',
     author_email = 'chrisbraissant@gmail.com',
     description = 'Micropython library to interact with registers and individual bits of devices connected to SPI.',
     license = 'MIT',
-    url='https://github.com/cbraissant/lps22hh_pico_driver',
+    url='https://github.com/cbraissant/pico-register',
     install_requires = [],
     classifiers=classifiers,
     long_description=readme,
